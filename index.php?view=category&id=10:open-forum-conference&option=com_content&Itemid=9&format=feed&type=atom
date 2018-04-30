@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://culturall2.idrc.ocad.ca/index.php" xml:lang="en-gb">
+	<title type="text">Events</title>
+	<subtitle type="text">Joomla! - the dynamic portal engine and content management system</subtitle>
+	<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=category&amp;id=10&amp;Itemid=9"/>
+	<id>/index.php?option=com_content&amp;view=category&amp;id=10&amp;Itemid=9</id>
+	<updated>2013-08-13T00:23:21Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/" />
+	<entry>
+		<title>International Open Forum</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=17%3Ainternational-open-forum&amp;catid=10%3Aopen-forum-conference&amp;Itemid=9"/>
+		<published>2008-05-14T18:49:51Z</published>
+		<updated>2008-05-14T18:49:51Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=17%3Ainternational-open-forum&amp;amp;catid=10%3Aopen-forum-conference&amp;amp;Itemid=9</id>
+		<summary type="html">&lt;span style=&quot;font-family: 'Tahoma','sans-serif'; color: #333333; font-size: 9pt&quot;&gt;The  International Open Forum, entitled Supporting Human Diversity Through Inclusive Design, was organized in Toronto on September 13th and 14th 2007.Over 150 delegates from more than 22 countries attended the 2-day International Forum. Delegates had an opportunity to engage with a roster of speakers representing the government, academic, corporate, and non-profit sectors and contributed their valuable insights and expertise on the challenges, best practices and innovations in the design of inclusive and  sustainable educational systems.&lt;/span&gt; </summary>
+		<content type="html">&lt;span style=&quot;font-family: 'Tahoma','sans-serif'; color: #333333; font-size: 9pt&quot;&gt;The  International Open Forum, entitled Supporting Human Diversity Through Inclusive Design, was organized in Toronto on September 13th and 14th 2007.Over 150 delegates from more than 22 countries attended the 2-day International Forum. Delegates had an opportunity to engage with a roster of speakers representing the government, academic, corporate, and non-profit sectors and contributed their valuable insights and expertise on the challenges, best practices and innovations in the design of inclusive and  sustainable educational systems.&lt;/span&gt; </content>
+	</entry>
+</feed>
