@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0">
+	<channel>
+		<title>Events</title>
+		<description>Joomla! - the dynamic portal engine and content management system</description>
+		<link>/index.php?option=com_content__view=section__id=3__Itemid=9</link>
+		<lastBuildDate>Tue, 13 Aug 2013 00:23:20 -0400</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>International Open Forum</title>
+			<link>/index.php?option=com_content__view=article__id=17%3Ainternational-open-forum__catid=10%3Aopen-forum-conference__Itemid=9</link>
+			<description><![CDATA[<span style="font-family: 'Tahoma','sans-serif'; color: #333333; font-size: 9pt">The  International Open Forum, entitled Supporting Human Diversity Through Inclusive Design, was organized in Toronto on September 13th and 14th 2007.Over 150 delegates from more than 22 countries attended the 2-day International Forum. Delegates had an opportunity to engage with a roster of speakers representing the government, academic, corporate, and non-profit sectors and contributed their valuable insights and expertise on the challenges, best practices and innovations in the design of inclusive and  sustainable educational systems.</span> ]]></description>
+			<category>Open Forum Conference</category>
+			<pubDate>Wed, 14 May 2008 18:49:51 -0400</pubDate>
+		</item>
+	</channel>
+</rss>

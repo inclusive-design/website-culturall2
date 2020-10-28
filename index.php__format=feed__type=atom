@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="/index.php" xml:lang="en-gb">
+	<title type="text">CulturAll 2.0 - Home</title>
+	<subtitle type="text">Joomla! - the dynamic portal engine and content management system</subtitle>
+	<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=frontpage"/>
+	<id>/index.php?option=com_content__view=frontpage</id>
+	<updated>2013-08-13T00:23:17Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/" />
+	<entry>
+		<title>Welcome to CulturAll 2.0</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=article__id=1:welcome-to-culturall-20__catid=1:about"/>
+		<published>2008-05-05T17:49:27Z</published>
+		<updated>2008-05-05T17:49:27Z</updated>
+		<id>/index.php?option=com_content__amp;view=article__amp;id=1:welcome-to-culturall-20__amp;catid=1:about</id>
+		<summary type="html">&lt;p&gt;The CulturAll 2.0 Network is a national multi-sector network developing innovative approaches, tools and strategies to ensure that everyone in Canada can participate in the Canadian cultural exchange online. As the Web becomes a participatory forum for bidirectional communication, social networking, cultural innovation and collaborative cultural production it becomes even more important that people with disabilities not be excluded. Through strategic applied research the CulturAll 2.0 Network will work to make certain that inclusive design becomes a naturally integrated component of Web 2.0 technologies and acts as a catalyst for innovation and creativity. Through pioneering exemplars, the network will reaffirm that advances that benefit people with disabilities, benefit all Canadians.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The CulturAll 2.0 Network is a national multi-sector network developing innovative approaches, tools and strategies to ensure that everyone in Canada can participate in the Canadian cultural exchange online. As the Web becomes a participatory forum for bidirectional communication, social networking, cultural innovation and collaborative cultural production it becomes even more important that people with disabilities not be excluded. Through strategic applied research the CulturAll 2.0 Network will work to make certain that inclusive design becomes a naturally integrated component of Web 2.0 technologies and acts as a catalyst for innovation and creativity. Through pioneering exemplars, the network will reaffirm that advances that benefit people with disabilities, benefit all Canadians.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CulturAll 2.0 vous souhaite la bienvenue!</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=article__id=28:culturall-20-vous-souhaite-la-bienvenue__catid=1:about"/>
+		<published>2009-03-31T19:41:06Z</published>
+		<updated>2009-03-31T19:41:06Z</updated>
+		<id>/index.php?option=com_content__amp;view=article__amp;id=28:culturall-20-vous-souhaite-la-bienvenue__amp;catid=1:about</id>
+		<summary type="html"> &lt;br /&gt;Le réseau CulturAll 2.0 est un réseau national multisectoriel qui crée des approches, des outils et des stratégies novateurs dans le but d’assurer à toute la population canadienne la possibilité de participer à l’échange culturel canadien en ligne. Alors que le Web devient un forum participatif pour la communication bidirectionnelle, le réseautage social, l’innovation culturelle et la production culturelle collaborative, il devient encore plus important de veiller à ce que les personnes handicapées ne soient pas exclues. Grâce à la recherche stratégique appliquée, le Réseau CulturAll 2.0 s’efforcera de s’assurer que le concept inclusif est intégré naturellement aux technologies Web 2.0 et qu’il sert de catalyseur à l’innovation et à la créativité. À l’aide de modèles novateurs, le réseau réitérera que les progrès avantageux pour les personnes handicapées sont également avantageux pour tous les Canadiens.     &lt;br /&gt;</summary>
+		<content type="html"> &lt;br /&gt;Le réseau CulturAll 2.0 est un réseau national multisectoriel qui crée des approches, des outils et des stratégies novateurs dans le but d’assurer à toute la population canadienne la possibilité de participer à l’échange culturel canadien en ligne. Alors que le Web devient un forum participatif pour la communication bidirectionnelle, le réseautage social, l’innovation culturelle et la production culturelle collaborative, il devient encore plus important de veiller à ce que les personnes handicapées ne soient pas exclues. Grâce à la recherche stratégique appliquée, le Réseau CulturAll 2.0 s’efforcera de s’assurer que le concept inclusif est intégré naturellement aux technologies Web 2.0 et qu’il sert de catalyseur à l’innovation et à la créativité. À l’aide de modèles novateurs, le réseau réitérera que les progrès avantageux pour les personnes handicapées sont également avantageux pour tous les Canadiens.     &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>CulturAll 1.0 Website</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=article__id=21:culturall-website__catid=1:about"/>
+		<published>2008-05-15T20:45:58Z</published>
+		<updated>2008-05-15T20:45:58Z</updated>
+		<id>/index.php?option=com_content__amp;view=article__amp;id=21:culturall-website__amp;catid=1:about</id>
+		<summary type="html">&lt;p&gt;View the &lt;a href=&quot;https://culturall1.idrc.ocadu.ca&quot; title=&quot;CulturAll Website&quot;&gt;CulturAll&lt;/a&gt; website &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;View the &lt;a href=&quot;https://culturall1.idrc.ocadu.ca&quot; title=&quot;CulturAll Website&quot;&gt;CulturAll&lt;/a&gt; website &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Site Web de CulturAll 1.0 </title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=article__id=29:site-web-de-culturalln10-__catid=1:about"/>
+		<published>2009-03-31T19:46:14Z</published>
+		<updated>2009-03-31T19:46:14Z</updated>
+		<id>/index.php?option=com_content__amp;view=article__amp;id=29:site-web-de-culturalln10-__amp;catid=1:about</id>
+		<summary type="html">&lt;p&gt;Visualisez le site Web &lt;a href=&quot;https://culturall1.idrc.ocadu.ca&quot; title=&quot;CulturAll Website&quot;&gt;CulturAll&lt;/a&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Visualisez le site Web &lt;a href=&quot;https://culturall1.idrc.ocadu.ca&quot; title=&quot;CulturAll Website&quot;&gt;CulturAll&lt;/a&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Fluid and TransformAble win  Learning Impact Leadership Awards! </title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content__view=article__id=20:fluid-and-transformable-win-learning-impact-leadership-awards-__catid=1:about"/>
+		<published>2008-05-15T20:22:07Z</published>
+		<updated>2008-05-15T20:22:07Z</updated>
+		<id>/index.php?option=com_content__amp;view=article__amp;id=20:fluid-and-transformable-win-learning-impact-leadership-awards-__amp;catid=1:about</id>
+		<summary type="html">&lt;p&gt;Fluid and TransformAble win Learning Impact Leadership Awards! &lt;/p&gt;&lt;p&gt;We are pleased to announce Fluid and TransformAble have won Learning Impact Leadership Awards from the IMS Global Learning Consortium (IMS GLC). The Learning Impact Awards (LIAs) recognize use of &lt;br /&gt;technology to improve learning across all industry segments and in all regions of the world. &lt;/p&gt;&lt;p&gt;Read Full &lt;a href=&quot;http://www.imsglobal.org/pressreleases/IMSPR-LIAWinners2008.pdf&quot; title=&quot;IMS Awards&quot;&gt;Press Release&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.imsglobal.org/pressreleases/IMSPR-LIAWinners2008.pdf&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Fluid and TransformAble win Learning Impact Leadership Awards! &lt;/p&gt;&lt;p&gt;We are pleased to announce Fluid and TransformAble have won Learning Impact Leadership Awards from the IMS Global Learning Consortium (IMS GLC). The Learning Impact Awards (LIAs) recognize use of &lt;br /&gt;technology to improve learning across all industry segments and in all regions of the world. &lt;/p&gt;&lt;p&gt;Read Full &lt;a href=&quot;http://www.imsglobal.org/pressreleases/IMSPR-LIAWinners2008.pdf&quot; title=&quot;IMS Awards&quot;&gt;Press Release&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.imsglobal.org/pressreleases/IMSPR-LIAWinners2008.pdf&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0">
+	<channel>
+		<title>Get Involved!</title>
+		<description>Joomla! - the dynamic portal engine and content management system</description>
+		<link>/index.php?option=com_content__view=category__id=12__Itemid=10</link>
+		<lastBuildDate>Tue, 13 Aug 2013 00:23:20 -0400</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>CulturAll 2.0 Wiki</title>
+			<link>/index.php?option=com_content__view=article__id=19%3Aculturall-20-wiki__catid=12%3Aget-involved__Itemid=10</link>
+			<description><![CDATA[<p>The CulturAll 2.0 Network encourages participation and collaboration from All! Participate by joining the CulturAll 2.0 <a href="http://wiki.atutor.ca/display/ca2/Welcome+to+the+CulturAll+2.0+Wiki" title="wiki">wiki</a> </p>]]></description>
+			<category>Get Involved</category>
+			<pubDate>Thu, 15 May 2008 19:40:25 -0400</pubDate>
+		</item>
+	</channel>
+</rss>
